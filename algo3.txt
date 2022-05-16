@@ -1,0 +1,22 @@
+algorithem algo3
+
+var
+sommme:integer:=0;
+t1: array of integer[];
+t2: array of  integer[];
+ninteger:=0;
+BEGIN
+read(n)
+somme:=function somme(t1,t2,n)
+
+
+
+
+end
+function somme(int t1,int t2,n)
+i,som:integer:=0
+for i from 1 to n step step do 
+som:=t1[i]+t[i];
+end_for
+
+fun somme
